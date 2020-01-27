@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uosahmucio.italiantutortampa.com/sitemap.xml
